@@ -1,4 +1,4 @@
-# How to change the width of the vertical scrollbar in WPF TreeView (SfTreeView)?
+# How to change the width of the vertical scrollbar in WPF TreeView?
 
 ## About the sample
 
@@ -82,7 +82,7 @@ This sample illustrates how to change the width of the vertical scrollbar in WPF
 
 ![SfTreeView vertical scrollbar width](SfTreeView_VerticalScrollBar_Widh.png)
 
-KB article - [How to change the width of the vertical scrollbar in WPF TreeView (SfTreeView)?](https://www.syncfusion.com/kb/12526/how-to-change-the-width-of-the-vertical-scrollbar-in-wpf-treeview-sftreeview)
+Take a moment to peruse the [WPF TreeView - Appearance](https://help.syncfusion.com/wpf/treeview/appearance) documentation, where you can find about customizing appearance, with code examples.
 
 ## Requirements to run the demo
 
